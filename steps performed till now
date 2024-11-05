@@ -1,0 +1,5 @@
+The build file must lie in the root of the repository . 
+#npm run build
+Dev in local inside react dev repo.
+After build move the contents of the build to the root so that the index.html could be detected by git for git pages.n
+In codespace must change the paths for .js and .css as per the github root scanario.
